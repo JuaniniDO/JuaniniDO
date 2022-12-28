@@ -1,5 +1,5 @@
 <div id="header" align="center">
-   <img src="https://img.freepik.com/foto-gratis/imagen-primer-plano-programador-trabajando-su-escritorio-oficina_1098-18707.jpg?w=2000" with="50" height="50" />
+   <img src="https://img.freepik.com/foto-gratis/imagen-primer-plano-programador-trabajando-su-escritorio-oficina_1098-18707.jpg?w=2000" with="100" height="100" />
     <h1 align="center">Hello 👋. My name is Juan, in process of full stack developer. </h1>
 </div>
 
