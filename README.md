@@ -1,5 +1,5 @@
 <div id="header" align="center">
-    <iframe src="https://giphy.com/embed/TFPdmm3rdzeZ0kP3zG" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/glitch-internet-computer-TFPdmm3rdzeZ0kP3zG">via GIPHY</a></p>
+   <img src="https://img.freepik.com/foto-gratis/imagen-primer-plano-programador-trabajando-su-escritorio-oficina_1098-18707.jpg?w=2000" with="200" />
     <h1 align="center">Hello 👋. My name is Juan, in process of full stack developer. </h1>
 </div>
 
